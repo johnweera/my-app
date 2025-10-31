@@ -1,0 +1,13 @@
+# Node
+node_modules/
+.next/
+/.env*
+.env.local
+.env.development
+.env.production
+.DS_Store
+/.vercel
+npm-debug.log
+yarn-error.log
+.vscode/
+coverage/
