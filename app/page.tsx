@@ -30,7 +30,7 @@ export default function Home() {
               DualSkill
             </span>
             <h1 className="mt-4 text-4xl font-bold leading-tight tracking-tight text-zinc-900 dark:text-zinc-50 sm:text-5xl">
-              DualSkill: Learn English & Thai with AIG
+              DualSkill: Learn English & Thai with AIG ABC
             </h1>
             <p className="mt-6 text-lg leading-8 text-zinc-600 dark:text-zinc-300">
               Speak fluently. Learn smart. Practice anywhere.
